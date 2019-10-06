@@ -1,0 +1,2 @@
+Esto es una prueba. 
+El commit es el equivalente a "guardar".
